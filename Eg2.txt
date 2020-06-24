@@ -1,2 +1,4 @@
 first in Master
 --------------
+Second in Branch
+---------------
